@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **maikmacs/maikmacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###  Hi, I'm maikmacs.  👋
+I am a musician and software engineer.
+
+### 🎧 Listening on Spotify:
+
+<a href="https://now-playing.maikmacs.vercel.app/now-playing?open">
+    <img src="https://now-playing.maikmacs.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
