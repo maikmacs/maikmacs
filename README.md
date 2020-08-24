@@ -12,12 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-###  Hi, I'm maikmacs.  👋
-I am a musician and software engineer.
-
-### 🎧 Listening on Spotify:
-
+<h3 align="center">Hi, I'm maikmacs.👋</h3>
+<h4 align="center">I am a musician and software engineer.</h4>
+<hr/>
+<h5>🎧 Listening on Spotify:</h5>
 <a href="https://now-playing.maikmacs.vercel.app/now-playing?open">
     <img src="https://now-playing.maikmacs.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
